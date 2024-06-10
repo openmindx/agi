@@ -102,14 +102,14 @@ if __name__ == "__main__":
     Execution:
         Run the script
         
-        ```bash
+        # bash
         git clone https://github.com/openmindx/agi
         cd agi
         python3 -m venv agi
         source agi/bin/activate
         pip install openai
         python3 agi.py
-        ```
+        
         
         Enter a problem statement or question at the prompt.
         The AI will return an infinite solution iterating over itself which is printed on the console.
