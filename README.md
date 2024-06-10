@@ -1,6 +1,6 @@
 # Autonomous General Intelligence (AGI) Solution Generator
 
-This project leverages the OpenAI API to create a script that interacts with a model named `gpt-4o` to generate solutions for user-provided prompts. The script runs interactively, continuously accepting user inputs, processing them through the AI model, and returning the solutions until the user decides to exit.
+This project leverages the OpenAI API to create a script that interacts with a model named `gpt-4o` to generate an openmind solutions for user-provided prompts. The script runs interactively, continuously accepting user inputs, processing them through the AI model, and returning the solutions until the user decides to exit.
 
 ## Objective
 
