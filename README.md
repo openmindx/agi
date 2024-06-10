@@ -124,7 +124,7 @@ if __name__ == "__main__":
         Type 'exit' to terminate the program.
 
 
-*** This recusive version of openmind AGI is an example of connection to openai API using python. This script will continue indefinately recursively improving upon your problem as a solution response. agi.py is published for further research and expansion into building openmind into an autonomous general intelligence multi-model integration environment. Use at your own risk and know your API limits. agi.py will not stop until you tell it to stop. For a deep dive into <a href="https://github.com/Professor-Codephreak><b>AGI</b></a> research and development enter <b>agi</b> as the problem to solve.
+*** This recusive version of openmind AGI is an example of connection to openai API using python. This script will continue indefinately recursively improving upon your problem as a solution response. agi.py is published for further research and expansion into building openmind into an autonomous general intelligence multi-model integration environment. Use at your own risk and know your API limits. agi.py will not stop until you tell it to stop. For a deep dive into <a href="https://github.com/Professor-Codephreak"><b>AGI</b></a> research and development enter <b>agi</b> as the problem to solve.
 
 
 
