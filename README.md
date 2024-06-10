@@ -21,6 +21,7 @@ import openai
 This line imports the OpenAI library, which is essential for interacting with OpenAI's API to utilize their AI models
 
 # ADD YOUR API KEY
+
 ```python
 openai.api_key = ''
 ```
