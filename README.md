@@ -102,7 +102,7 @@ if __name__ == "__main__":
     Execution:
         Run the script
         
-        ```python
+        ```bash
         git clone https://github.com/openmindx/agi
         cd agi
         python3 -m venv agi
