@@ -9,6 +9,7 @@ To showcase a recursivce prompt solutions generator as openmind infinite respons
 ## prompt
 
 prompt = f"Autonomous general intelligence return solution: {agi_prompt}."
+agi_prompt = input("Enter the problem to solve (or type 'exit' to quit): ")
 
 
 ## Script Overview
