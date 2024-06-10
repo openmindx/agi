@@ -69,7 +69,6 @@ def main():
         solution = get_solution_from_agi(agi_prompt)
         print(f"\nSolution:\n{solution}\n")
 ```
-
 Function Name: main
 
 Process:
@@ -101,6 +100,7 @@ if __name__ == "__main__":
 
     Execution:
         Run the script
+        
         ```python
         git clone https://github.com/openmindx/agi
         cd agi
