@@ -1,4 +1,4 @@
-# openmind (c) codephreak 2024 MIT license
+# openmind (c) Gregory L. Magnusson 2024 MIT license
 import openai
 
 openai.api_key = ''
