@@ -37,7 +37,7 @@ openai.api_key = ''
 <a href="https://openai.com/index/openai-api/">openai-api signup</a><br />
 
 
-### Defining the Function to Get Solutions from the AGI
+### Defining the Function to Get Solutions from openmind Autonomous General Intelligence
 
 ```python
 def get_solution_from_agi(agi_prompt):
