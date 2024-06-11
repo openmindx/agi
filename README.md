@@ -4,7 +4,7 @@ This project leverages the OpenAI API to create a script that interacts with a m
 
 ## Objective
 
-To showcase a recursive prompt solutions generator as openmind openai gpt-4o api call
+To showcase a recursive prompt solutions generator as openmind openai gpt-4o api call using minimal python code.
 
 ## prompt
 
