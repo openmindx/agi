@@ -1,3 +1,4 @@
+# openmind (c) codephreak 2024 MIT license
 import openai
 
 openai.api_key = ''
